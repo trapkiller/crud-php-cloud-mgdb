@@ -1,10 +1,8 @@
 # biblioteca
 
-### Comandos para criar banco de dados - MongoDB
+### Necessita criar a pasta Vendor na raiz do projeto
 ```
-Abra o cmd e digite: mongo
-Após, digite: use biblioteca
-Em seguida, db.livros.insert( { "nome": "Titanic", "informacoes": "Livro", "autor":"Alguem", "lancamento":"2019" } ) 
+Dentro de vendor terá as pastas MONGODB e COMPOSER e o arquivo AUTOLOAD.PHP 
 ```
 
 ## Instalação
